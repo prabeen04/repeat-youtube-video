@@ -2,5 +2,9 @@
     "name": "Repeat youtube video",
     "description": "Extension for playing youtube video in loop",
     "version": "1.0",
-    "manifest_version": 2
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
 }
