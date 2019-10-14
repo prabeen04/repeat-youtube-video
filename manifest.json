@@ -1,0 +1,6 @@
+{
+    "name": "Repeat youtube video",
+    "description": "Extension for playing youtube video in loop",
+    "version": "1.0",
+    "manifest_version": 2
+}
