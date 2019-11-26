@@ -8,8 +8,7 @@
         "default_icon": "icon.jpg"
     },
     "background": {
-        "scripts": ["popup.js"],
-        "persistent": false
+        "scripts": ["background.js"]
     },
     "content_scripts": [{
         "matches": ["http://*/*", "https://*/*"],
